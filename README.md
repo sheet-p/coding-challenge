@@ -1,7 +1,7 @@
 # SAP Community Coding Challenge #3
 
 #### Hello 👋 Welcome to the third challenge in the SAP Community Coding Challenge Series!
-Please find instructions to the challenge [here]()
+Please find instructions to the challenge [here](https://blogs.sap.com/2020/08/03/sap-community-coding-challenge-3/)
 
 There are multiple ways to share your solution with us. If you choose to share a
  GitHub link for your solution, please remember to either [fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
@@ -13,7 +13,7 @@ If you like to keep your repo [private](https://docs.github.com/en/github/admini
  to your personal repository.
 
 Please remember that forking the repo or adding me as a collaborator **DOES NOT** automatically enter you into the challenge.
- Please make sure to follow the [submission instructions]() to be considered as a valid participant. 
+ Please make sure to follow the [submission instructions](https://blogs.sap.com/2020/08/03/sap-community-coding-challenge-3/) to be considered as a valid participant. 
 
 This repo is only to be used as a starting point and is valid to change the project structure if necessary.
 
